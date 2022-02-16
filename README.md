@@ -1,2 +1,2 @@
-# encriptador
-Un proyecto para Encriptar Texto simple con JavaScript, CSS, y HTML
+# NearProtocol 
+Un proyecto de aprendizaje de Near Protocol de la Blockchain 
